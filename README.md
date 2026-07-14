@@ -12,12 +12,6 @@
 - CSS3
 - JavaScript
 
-### Tools
-- Git
-- GitHub
-- VS Code
-- Figma
-
 ## 📂 Projects
 
 - 🌐 Personal Portfolio Website
