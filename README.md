@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Rakshita 👋
 
-<!--
-**Rakshita-014/Rakshita-014** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year BCA Student  
+🎨 Frontend Developer & UI Enthusiast  
+💻 Building modern, responsive web experiences
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Languages
+- HTML5
+- CSS3
+- JavaScript
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Figma
+
+## 📂 Projects
+
+- 🌐 Personal Portfolio Website
+- 🪪 Interactive Portfolio Cards
+- 🔐 Login & Authentication UI
+- 📱 Responsive Website Designs
+
+## 📫 Connect With Me
+
+💼 LinkedIn: https://www.linkedin.com/in/rakshita-bhosale-868b18365/
+
